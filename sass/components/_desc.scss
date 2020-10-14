@@ -1,0 +1,23 @@
+.tradition__desc {
+  font-family: DM Sans;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.62;
+  color: $primary-text-color;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  &--text {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.62;
+    color: $secondary-text-color;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}

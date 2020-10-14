@@ -1,0 +1,23 @@
+.statistic__number {
+  font-family: Titan One;
+  font-size: 36px;
+  line-height: 1.14;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $accent-color;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.statistic__desc {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.7;
+  color: $primary-text-color;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.statistic__item:not(:last-child) {
+  margin-bottom: 38px;
+}

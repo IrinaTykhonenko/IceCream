@@ -1,0 +1,33 @@
+// *,
+// *::after,
+// *::before {
+//   outline: 2px solid red;
+// }
+
+body {
+  background-color: $bg-color;
+  color: $primary-text-color;
+
+  font-family: "DM Sans", sans-serif;
+  //   font-family: "Titan One", cursive;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  // width: 320px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.section {
+  padding-top: 125px;
+  padding-bottom: 97px;
+}
